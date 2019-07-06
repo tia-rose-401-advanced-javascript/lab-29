@@ -10,8 +10,16 @@
 
 [Composition-Functions](https://codesandbox.io/embed/class-29-composition-functions-kyobl)
 
+
 [Modal](https://codesandbox.io/embed/starter-codemodal-0pd5n)
 
+
+## Composition 
 ![Composition](./assets/Composition.JPG)
+
+
+
+
+## Modal
 
 ![Modal](./assets/Modal.JPG)
